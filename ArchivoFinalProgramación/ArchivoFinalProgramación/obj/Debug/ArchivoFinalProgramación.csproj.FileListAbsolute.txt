@@ -1,0 +1,96 @@
+C:\Users\Marcos\Desktop\ArchivoFinalProgramación\ArchivoFinalProgramación\obj\Debug\ArchivoFinalProgramación.csproj.AssemblyReference.cache
+C:\Users\Marcos\Desktop\ArchivoFinalProgramación\ArchivoFinalProgramación\obj\Debug\ArchivoFinalProgramación.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marcos\Desktop\ArchivoFinalProgramación\ArchivoFinalProgramación\obj\Debug\ArchivoFinalProgramación.Properties.Resources.resources
+C:\Users\Marcos\Desktop\ArchivoFinalProgramación\ArchivoFinalProgramación\obj\Debug\ArchivoFinalProgramación.csproj.GenerateResource.cache
+C:\Users\Marcos\Desktop\ArchivoFinalProgramación\ArchivoFinalProgramación\obj\Debug\ArchivoFinalProgramación.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Desktop\ArchivoFinalProgramación\ArchivoFinalProgramación\bin\Debug\ArchivoFinalProgramación.exe.config
+C:\Users\Marcos\Desktop\ArchivoFinalProgramación\ArchivoFinalProgramación\bin\Debug\ArchivoFinalProgramación.exe
+C:\Users\Marcos\Desktop\ArchivoFinalProgramación\ArchivoFinalProgramación\bin\Debug\ArchivoFinalProgramación.pdb
+C:\Users\Marcos\Desktop\ArchivoFinalProgramación\ArchivoFinalProgramación\obj\Debug\ArchivoFinalProgramación.exe
+C:\Users\Marcos\Desktop\ArchivoFinalProgramación\ArchivoFinalProgramación\obj\Debug\ArchivoFinalProgramación.pdb
+C:\Users\Marcos\Desktop\ArchivoFinalProgramación\ArchivoFinalProgramación\obj\Debug\ArchivoFinalProgramación.Form1.resources
+C:\Users\Marcos\Desktop\ArchivoFinalProgramación\ArchivoFinalProgramación\obj\Debug\ArchivoFinalProgramación.Form2.resources
+C:\Users\Marcos\Desktop\ArchivoFinalProgramación\ArchivoFinalProgramación\obj\Debug\ArchivoFinalProgramación.Form3.resources
+C:\Users\Marcos\Desktop\ArchivoFinalProgramación\ArchivoFinalProgramación\obj\Debug\ArchivoFinalProgramación.Form4.resources
+C:\Users\° Vale °\OneDrive\Escritorio\ArchivoFinalProgramación\ArchivoFinalProgramación\bin\Debug\ArchivoFinalProgramación.exe.config
+C:\Users\° Vale °\OneDrive\Escritorio\ArchivoFinalProgramación\ArchivoFinalProgramación\bin\Debug\ArchivoFinalProgramación.exe
+C:\Users\° Vale °\OneDrive\Escritorio\ArchivoFinalProgramación\ArchivoFinalProgramación\bin\Debug\ArchivoFinalProgramación.pdb
+C:\Users\° Vale °\OneDrive\Escritorio\ArchivoFinalProgramación\ArchivoFinalProgramación\obj\Debug\ArchivoFinalProgramación.csproj.AssemblyReference.cache
+C:\Users\° Vale °\OneDrive\Escritorio\ArchivoFinalProgramación\ArchivoFinalProgramación\obj\Debug\ArchivoFinalProgramación.csproj.SuggestedBindingRedirects.cache
+C:\Users\° Vale °\OneDrive\Escritorio\ArchivoFinalProgramación\ArchivoFinalProgramación\obj\Debug\ArchivoFinalProgramación.Form1.resources
+C:\Users\° Vale °\OneDrive\Escritorio\ArchivoFinalProgramación\ArchivoFinalProgramación\obj\Debug\ArchivoFinalProgramación.Form2.resources
+C:\Users\° Vale °\OneDrive\Escritorio\ArchivoFinalProgramación\ArchivoFinalProgramación\obj\Debug\ArchivoFinalProgramación.Form3.resources
+C:\Users\° Vale °\OneDrive\Escritorio\ArchivoFinalProgramación\ArchivoFinalProgramación\obj\Debug\ArchivoFinalProgramación.Form4.resources
+C:\Users\° Vale °\OneDrive\Escritorio\ArchivoFinalProgramación\ArchivoFinalProgramación\obj\Debug\ArchivoFinalProgramación.Properties.Resources.resources
+C:\Users\° Vale °\OneDrive\Escritorio\ArchivoFinalProgramación\ArchivoFinalProgramación\obj\Debug\ArchivoFinalProgramación.csproj.GenerateResource.cache
+C:\Users\° Vale °\OneDrive\Escritorio\ArchivoFinalProgramación\ArchivoFinalProgramación\obj\Debug\ArchivoFinalProgramación.csproj.CoreCompileInputs.cache
+C:\Users\° Vale °\OneDrive\Escritorio\ArchivoFinalProgramación\ArchivoFinalProgramación\obj\Debug\ArchivoFinalProgramación.exe
+C:\Users\° Vale °\OneDrive\Escritorio\ArchivoFinalProgramación\ArchivoFinalProgramación\obj\Debug\ArchivoFinalProgramación.pdb
+C:\Users\Marcos\Desktop\Final Programacion\ArchivoFinalProgramación\ArchivoFinalProgramación\bin\Debug\ArchivoFinalProgramación.exe.config
+C:\Users\Marcos\Desktop\Final Programacion\ArchivoFinalProgramación\ArchivoFinalProgramación\bin\Debug\ArchivoFinalProgramación.exe
+C:\Users\Marcos\Desktop\Final Programacion\ArchivoFinalProgramación\ArchivoFinalProgramación\bin\Debug\ArchivoFinalProgramación.pdb
+C:\Users\Marcos\Desktop\Final Programacion\ArchivoFinalProgramación\ArchivoFinalProgramación\obj\Debug\ArchivoFinalProgramación.csproj.AssemblyReference.cache
+C:\Users\Marcos\Desktop\Final Programacion\ArchivoFinalProgramación\ArchivoFinalProgramación\obj\Debug\ArchivoFinalProgramación.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marcos\Desktop\Final Programacion\ArchivoFinalProgramación\ArchivoFinalProgramación\obj\Debug\ArchivoFinalProgramación.Form1.resources
+C:\Users\Marcos\Desktop\Final Programacion\ArchivoFinalProgramación\ArchivoFinalProgramación\obj\Debug\ArchivoFinalProgramación.Form2.resources
+C:\Users\Marcos\Desktop\Final Programacion\ArchivoFinalProgramación\ArchivoFinalProgramación\obj\Debug\ArchivoFinalProgramación.Form3.resources
+C:\Users\Marcos\Desktop\Final Programacion\ArchivoFinalProgramación\ArchivoFinalProgramación\obj\Debug\ArchivoFinalProgramación.Form4.resources
+C:\Users\Marcos\Desktop\Final Programacion\ArchivoFinalProgramación\ArchivoFinalProgramación\obj\Debug\ArchivoFinalProgramación.Properties.Resources.resources
+C:\Users\Marcos\Desktop\Final Programacion\ArchivoFinalProgramación\ArchivoFinalProgramación\obj\Debug\ArchivoFinalProgramación.csproj.GenerateResource.cache
+C:\Users\Marcos\Desktop\Final Programacion\ArchivoFinalProgramación\ArchivoFinalProgramación\obj\Debug\ArchivoFinalProgramación.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Desktop\Final Programacion\ArchivoFinalProgramación\ArchivoFinalProgramación\obj\Debug\ArchivoFinalProgramación.exe
+C:\Users\Marcos\Desktop\Final Programacion\ArchivoFinalProgramación\ArchivoFinalProgramación\obj\Debug\ArchivoFinalProgramación.pdb
+C:\Archivos VS\2do-Cuatrimestre C#\Final Programacion\ArchivoFinalProgramación\ArchivoFinalProgramación\bin\Debug\ArchivoFinalProgramación.exe.config
+C:\Archivos VS\2do-Cuatrimestre C#\Final Programacion\ArchivoFinalProgramación\ArchivoFinalProgramación\bin\Debug\ArchivoFinalProgramación.exe
+C:\Archivos VS\2do-Cuatrimestre C#\Final Programacion\ArchivoFinalProgramación\ArchivoFinalProgramación\bin\Debug\ArchivoFinalProgramación.pdb
+C:\Archivos VS\2do-Cuatrimestre C#\Final Programacion\ArchivoFinalProgramación\ArchivoFinalProgramación\obj\Debug\ArchivoFinalProgramación.csproj.AssemblyReference.cache
+C:\Archivos VS\2do-Cuatrimestre C#\Final Programacion\ArchivoFinalProgramación\ArchivoFinalProgramación\obj\Debug\ArchivoFinalProgramación.Form1.resources
+C:\Archivos VS\2do-Cuatrimestre C#\Final Programacion\ArchivoFinalProgramación\ArchivoFinalProgramación\obj\Debug\ArchivoFinalProgramación.Form2.resources
+C:\Archivos VS\2do-Cuatrimestre C#\Final Programacion\ArchivoFinalProgramación\ArchivoFinalProgramación\obj\Debug\ArchivoFinalProgramación.Form3.resources
+C:\Archivos VS\2do-Cuatrimestre C#\Final Programacion\ArchivoFinalProgramación\ArchivoFinalProgramación\obj\Debug\ArchivoFinalProgramación.Form4.resources
+C:\Archivos VS\2do-Cuatrimestre C#\Final Programacion\ArchivoFinalProgramación\ArchivoFinalProgramación\obj\Debug\ArchivoFinalProgramación.Properties.Resources.resources
+C:\Archivos VS\2do-Cuatrimestre C#\Final Programacion\ArchivoFinalProgramación\ArchivoFinalProgramación\obj\Debug\ArchivoFinalProgramación.csproj.GenerateResource.cache
+C:\Archivos VS\2do-Cuatrimestre C#\Final Programacion\ArchivoFinalProgramación\ArchivoFinalProgramación\obj\Debug\ArchivoFinalProgramación.csproj.CoreCompileInputs.cache
+C:\Archivos VS\2do-Cuatrimestre C#\Final Programacion\ArchivoFinalProgramación\ArchivoFinalProgramación\obj\Debug\ArchivoFinalProgramación.exe
+C:\Archivos VS\2do-Cuatrimestre C#\Final Programacion\ArchivoFinalProgramación\ArchivoFinalProgramación\obj\Debug\ArchivoFinalProgramación.pdb
+C:\Users\Marcos\Desktop\FInal con Diseños\Final Programacion\ArchivoFinalProgramación\ArchivoFinalProgramación\bin\Debug\ArchivoFinalProgramación.exe.config
+C:\Users\Marcos\Desktop\FInal con Diseños\Final Programacion\ArchivoFinalProgramación\ArchivoFinalProgramación\bin\Debug\ArchivoFinalProgramación.exe
+C:\Users\Marcos\Desktop\FInal con Diseños\Final Programacion\ArchivoFinalProgramación\ArchivoFinalProgramación\bin\Debug\ArchivoFinalProgramación.pdb
+C:\Users\Marcos\Desktop\FInal con Diseños\Final Programacion\ArchivoFinalProgramación\ArchivoFinalProgramación\obj\Debug\ArchivoFinalProgramación.csproj.AssemblyReference.cache
+C:\Users\Marcos\Desktop\FInal con Diseños\Final Programacion\ArchivoFinalProgramación\ArchivoFinalProgramación\obj\Debug\ArchivoFinalProgramación.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marcos\Desktop\FInal con Diseños\Final Programacion\ArchivoFinalProgramación\ArchivoFinalProgramación\obj\Debug\ArchivoFinalProgramación.Form1.resources
+C:\Users\Marcos\Desktop\FInal con Diseños\Final Programacion\ArchivoFinalProgramación\ArchivoFinalProgramación\obj\Debug\ArchivoFinalProgramación.Form2.resources
+C:\Users\Marcos\Desktop\FInal con Diseños\Final Programacion\ArchivoFinalProgramación\ArchivoFinalProgramación\obj\Debug\ArchivoFinalProgramación.Form3.resources
+C:\Users\Marcos\Desktop\FInal con Diseños\Final Programacion\ArchivoFinalProgramación\ArchivoFinalProgramación\obj\Debug\ArchivoFinalProgramación.Form4.resources
+C:\Users\Marcos\Desktop\FInal con Diseños\Final Programacion\ArchivoFinalProgramación\ArchivoFinalProgramación\obj\Debug\ArchivoFinalProgramación.Properties.Resources.resources
+C:\Users\Marcos\Desktop\FInal con Diseños\Final Programacion\ArchivoFinalProgramación\ArchivoFinalProgramación\obj\Debug\ArchivoFinalProgramación.csproj.GenerateResource.cache
+C:\Users\Marcos\Desktop\FInal con Diseños\Final Programacion\ArchivoFinalProgramación\ArchivoFinalProgramación\obj\Debug\ArchivoFinalProgramación.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Desktop\FInal con Diseños\Final Programacion\ArchivoFinalProgramación\ArchivoFinalProgramación\obj\Debug\ArchivoFinalProgramación.exe
+C:\Users\Marcos\Desktop\FInal con Diseños\Final Programacion\ArchivoFinalProgramación\ArchivoFinalProgramación\obj\Debug\ArchivoFinalProgramación.pdb
+C:\Archivos VS\2do-Cuatrimestre C#\Final Programacion I\Final Programacion\ArchivoFinalProgramación\ArchivoFinalProgramación\bin\Debug\ArchivoFinalProgramación.exe.config
+C:\Archivos VS\2do-Cuatrimestre C#\Final Programacion I\Final Programacion\ArchivoFinalProgramación\ArchivoFinalProgramación\bin\Debug\ArchivoFinalProgramación.exe
+C:\Archivos VS\2do-Cuatrimestre C#\Final Programacion I\Final Programacion\ArchivoFinalProgramación\ArchivoFinalProgramación\bin\Debug\ArchivoFinalProgramación.pdb
+C:\Archivos VS\2do-Cuatrimestre C#\Final Programacion I\Final Programacion\ArchivoFinalProgramación\ArchivoFinalProgramación\obj\Debug\ArchivoFinalProgramación.csproj.AssemblyReference.cache
+C:\Archivos VS\2do-Cuatrimestre C#\Final Programacion I\Final Programacion\ArchivoFinalProgramación\ArchivoFinalProgramación\obj\Debug\ArchivoFinalProgramación.Form1.resources
+C:\Archivos VS\2do-Cuatrimestre C#\Final Programacion I\Final Programacion\ArchivoFinalProgramación\ArchivoFinalProgramación\obj\Debug\ArchivoFinalProgramación.Form2.resources
+C:\Archivos VS\2do-Cuatrimestre C#\Final Programacion I\Final Programacion\ArchivoFinalProgramación\ArchivoFinalProgramación\obj\Debug\ArchivoFinalProgramación.Form3.resources
+C:\Archivos VS\2do-Cuatrimestre C#\Final Programacion I\Final Programacion\ArchivoFinalProgramación\ArchivoFinalProgramación\obj\Debug\ArchivoFinalProgramación.Form4.resources
+C:\Archivos VS\2do-Cuatrimestre C#\Final Programacion I\Final Programacion\ArchivoFinalProgramación\ArchivoFinalProgramación\obj\Debug\ArchivoFinalProgramación.Properties.Resources.resources
+C:\Archivos VS\2do-Cuatrimestre C#\Final Programacion I\Final Programacion\ArchivoFinalProgramación\ArchivoFinalProgramación\obj\Debug\ArchivoFinalProgramación.csproj.GenerateResource.cache
+C:\Archivos VS\2do-Cuatrimestre C#\Final Programacion I\Final Programacion\ArchivoFinalProgramación\ArchivoFinalProgramación\obj\Debug\ArchivoFinalProgramación.csproj.CoreCompileInputs.cache
+C:\Archivos VS\2do-Cuatrimestre C#\Final Programacion I\Final Programacion\ArchivoFinalProgramación\ArchivoFinalProgramación\obj\Debug\ArchivoFinalProgramación.exe
+C:\Archivos VS\2do-Cuatrimestre C#\Final Programacion I\Final Programacion\ArchivoFinalProgramación\ArchivoFinalProgramación\obj\Debug\ArchivoFinalProgramación.pdb
+C:\Users\° Vale °\OneDrive\Escritorio\Final Programacion I\Final Programacion\ArchivoFinalProgramación\ArchivoFinalProgramación\bin\Debug\ArchivoFinalProgramación.exe.config
+C:\Users\° Vale °\OneDrive\Escritorio\Final Programacion I\Final Programacion\ArchivoFinalProgramación\ArchivoFinalProgramación\bin\Debug\ArchivoFinalProgramación.exe
+C:\Users\° Vale °\OneDrive\Escritorio\Final Programacion I\Final Programacion\ArchivoFinalProgramación\ArchivoFinalProgramación\bin\Debug\ArchivoFinalProgramación.pdb
+C:\Users\° Vale °\OneDrive\Escritorio\Final Programacion I\Final Programacion\ArchivoFinalProgramación\ArchivoFinalProgramación\obj\Debug\ArchivoFinalProgramación.csproj.AssemblyReference.cache
+C:\Users\° Vale °\OneDrive\Escritorio\Final Programacion I\Final Programacion\ArchivoFinalProgramación\ArchivoFinalProgramación\obj\Debug\ArchivoFinalProgramación.csproj.SuggestedBindingRedirects.cache
+C:\Users\° Vale °\OneDrive\Escritorio\Final Programacion I\Final Programacion\ArchivoFinalProgramación\ArchivoFinalProgramación\obj\Debug\ArchivoFinalProgramación.Form1.resources
+C:\Users\° Vale °\OneDrive\Escritorio\Final Programacion I\Final Programacion\ArchivoFinalProgramación\ArchivoFinalProgramación\obj\Debug\ArchivoFinalProgramación.Form2.resources
+C:\Users\° Vale °\OneDrive\Escritorio\Final Programacion I\Final Programacion\ArchivoFinalProgramación\ArchivoFinalProgramación\obj\Debug\ArchivoFinalProgramación.Form3.resources
+C:\Users\° Vale °\OneDrive\Escritorio\Final Programacion I\Final Programacion\ArchivoFinalProgramación\ArchivoFinalProgramación\obj\Debug\ArchivoFinalProgramación.Form4.resources
+C:\Users\° Vale °\OneDrive\Escritorio\Final Programacion I\Final Programacion\ArchivoFinalProgramación\ArchivoFinalProgramación\obj\Debug\ArchivoFinalProgramación.Properties.Resources.resources
+C:\Users\° Vale °\OneDrive\Escritorio\Final Programacion I\Final Programacion\ArchivoFinalProgramación\ArchivoFinalProgramación\obj\Debug\ArchivoFinalProgramación.csproj.GenerateResource.cache
+C:\Users\° Vale °\OneDrive\Escritorio\Final Programacion I\Final Programacion\ArchivoFinalProgramación\ArchivoFinalProgramación\obj\Debug\ArchivoFinalProgramación.csproj.CoreCompileInputs.cache
+C:\Users\° Vale °\OneDrive\Escritorio\Final Programacion I\Final Programacion\ArchivoFinalProgramación\ArchivoFinalProgramación\obj\Debug\ArchivoFinalProgramación.exe
+C:\Users\° Vale °\OneDrive\Escritorio\Final Programacion I\Final Programacion\ArchivoFinalProgramación\ArchivoFinalProgramación\obj\Debug\ArchivoFinalProgramación.pdb
