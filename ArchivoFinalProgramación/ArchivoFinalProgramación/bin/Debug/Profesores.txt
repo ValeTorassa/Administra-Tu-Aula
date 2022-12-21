@@ -1,4 +1,4 @@
-Fernando.    Jaime
-Valentin.    Torassa
-Marcos.    Lodato
-Pedro.    Lopez
+Fernando. Jaime
+Valentin. Torassa
+Marcos. Lodato
+Pedro.  Lopez

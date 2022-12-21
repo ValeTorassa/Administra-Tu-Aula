@@ -94,3 +94,16 @@ C:\Users\° Vale °\OneDrive\Escritorio\Final Programacion I\Final Programacion\
 C:\Users\° Vale °\OneDrive\Escritorio\Final Programacion I\Final Programacion\ArchivoFinalProgramación\ArchivoFinalProgramación\obj\Debug\ArchivoFinalProgramación.csproj.CoreCompileInputs.cache
 C:\Users\° Vale °\OneDrive\Escritorio\Final Programacion I\Final Programacion\ArchivoFinalProgramación\ArchivoFinalProgramación\obj\Debug\ArchivoFinalProgramación.exe
 C:\Users\° Vale °\OneDrive\Escritorio\Final Programacion I\Final Programacion\ArchivoFinalProgramación\ArchivoFinalProgramación\obj\Debug\ArchivoFinalProgramación.pdb
+C:\Users\Avatar\Desktop\Trabajo-Final-main\ArchivoFinalProgramación\ArchivoFinalProgramación\obj\Debug\ArchivoFinalProgramación.csproj.AssemblyReference.cache
+C:\Users\Avatar\Desktop\Trabajo-Final-main\ArchivoFinalProgramación\ArchivoFinalProgramación\obj\Debug\ArchivoFinalProgramación.Form1.resources
+C:\Users\Avatar\Desktop\Trabajo-Final-main\ArchivoFinalProgramación\ArchivoFinalProgramación\obj\Debug\ArchivoFinalProgramación.Form2.resources
+C:\Users\Avatar\Desktop\Trabajo-Final-main\ArchivoFinalProgramación\ArchivoFinalProgramación\obj\Debug\ArchivoFinalProgramación.Form3.resources
+C:\Users\Avatar\Desktop\Trabajo-Final-main\ArchivoFinalProgramación\ArchivoFinalProgramación\obj\Debug\ArchivoFinalProgramación.Form4.resources
+C:\Users\Avatar\Desktop\Trabajo-Final-main\ArchivoFinalProgramación\ArchivoFinalProgramación\obj\Debug\ArchivoFinalProgramación.Properties.Resources.resources
+C:\Users\Avatar\Desktop\Trabajo-Final-main\ArchivoFinalProgramación\ArchivoFinalProgramación\obj\Debug\ArchivoFinalProgramación.csproj.GenerateResource.cache
+C:\Users\Avatar\Desktop\Trabajo-Final-main\ArchivoFinalProgramación\ArchivoFinalProgramación\obj\Debug\ArchivoFinalProgramación.csproj.CoreCompileInputs.cache
+C:\Users\Avatar\Desktop\Trabajo-Final-main\ArchivoFinalProgramación\ArchivoFinalProgramación\obj\Debug\ArchivoFinalProgramación.exe
+C:\Users\Avatar\Desktop\Trabajo-Final-main\ArchivoFinalProgramación\ArchivoFinalProgramación\obj\Debug\ArchivoFinalProgramación.pdb
+C:\Users\Avatar\Desktop\Trabajo-Final-main\ArchivoFinalProgramación\ArchivoFinalProgramación\bin\Debug\ArchivoFinalProgramación.exe.config
+C:\Users\Avatar\Desktop\Trabajo-Final-main\ArchivoFinalProgramación\ArchivoFinalProgramación\bin\Debug\ArchivoFinalProgramación.exe
+C:\Users\Avatar\Desktop\Trabajo-Final-main\ArchivoFinalProgramación\ArchivoFinalProgramación\bin\Debug\ArchivoFinalProgramación.pdb

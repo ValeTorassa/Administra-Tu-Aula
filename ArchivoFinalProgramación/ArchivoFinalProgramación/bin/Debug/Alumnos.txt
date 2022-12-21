@@ -1,7 +1,13 @@
-Jorge, Sanchez, DNI: 44067912
-Pedro, Lopez, DNI: 1345245
-Juan, Rodriguez, DNI: 788991
-Manuel, Diaz, DNI: 123885
-Martina, Gomez, DNI: 78542
-Kimey, Martin, DNI: 7968
-Juan, Carlos, DNI: 78524
+Jorge, Sanchez, 44067912
+Pedro, Lopez, 1345245
+Juan, Rodriguez, 788991
+Manuel, Diaz, 123885
+Martina, Gomez, 78542
+Kimey, Martin, 7968
+Juan, Carlos, 78524
+Atlis, Perro, 31234
+Pedro,  Lopez, 1345245
+hector, gomez, 23452
+Martina,  Gomez, 78542
+Milagros, Diaz, 32452
+Atlis,  Perro,  31234

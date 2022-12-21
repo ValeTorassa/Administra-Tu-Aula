@@ -4,7 +4,6 @@ using System.ComponentModel;
 using System.Data;
 using System.Drawing;
 using System.Linq;
-using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.IO;
@@ -18,6 +17,7 @@ namespace ArchivoFinalProgramación
             InitializeComponent();
             cargarProfes(); // Funcion para llenar el ComboBox con los datos del archivo 
             CargaMaterias(); // Función para llenar el ComboBox con los datos del archivo
+            cargarAlumnos();//Funcion para llenar el ComboBox con los datos del archivo
 
             // Abrimos el archivo en modo lectura
             FileStream fs1 = new FileStream("Alumnos.txt", FileMode.OpenOrCreate, FileAccess.Read);
@@ -31,16 +31,48 @@ namespace ArchivoFinalProgramación
 
         private void btnAgregarAlumno_Click(object sender, EventArgs e)
         {
+            //entero para el numero de filas en el gridview
+            int l;
+
             // Valido que ninguna cadena este vacia
-            if (txtNombreAlumno.Text == "" || txtApellidoAlumno.Text == "" || txtDniAlumno.Text == "")
+            if (cmbCargados.Text != "")
+            {
+                
+                //incializo las variables
+                string nombre;
+                string apellido;
+                string DNI;
+
+                // Spliteo los profesores con un punto para por diferenciarlos a la hora de pasarlo al datagridview
+                string[] datos = cmbCargados.Text.Split(',');
+
+                nombre = datos[0];
+                apellido = datos[1];
+                DNI = datos[2];
+
+                // Adicionamos nuevo renglon
+                l = dgvAlumnos.Rows.Add();
+
+
+                // Colocamos la informacion en el datagridview
+                dgvAlumnos.Rows[l].Cells[0].Value = nombre;
+
+                dgvAlumnos.Rows[l].Cells[1].Value = apellido;
+
+                dgvAlumnos.Rows[l].Cells[2].Value = DNI;
+
+                lblError1.Text = "";
+                txtNombreAlumno.Text = "";
+                txtApellidoAlumno.Text = "";
+                txtDniAlumno.Text = "";
+                cmbCargados.Text = "";
+            }
+            else if (txtNombreAlumno.Text == "" || txtApellidoAlumno.Text == "" || txtDniAlumno.Text == "")
             {
                 lblError1.Text = "Error: Uno o varios espacios estan vacios";
-
             }
             else
             {
-                int l;
-
                 // Adicionamos nuevo renglon
                 l = dgvAlumnos.Rows.Add();
 
@@ -55,6 +87,7 @@ namespace ArchivoFinalProgramación
                 txtNombreAlumno.Text = "";
                 txtApellidoAlumno.Text = "";
                 txtDniAlumno.Text = "";
+                cmbCargados.Text = "";
             }
         }
 
@@ -104,6 +137,13 @@ namespace ArchivoFinalProgramación
                 txtDniAlumno.Text = "";
             }
         }
+
+        private void btnBorrarCmb_Click(object sender, EventArgs e)
+        {
+            cmbCargados.Text = "";
+        }
+
+
         // Metodo guardar
         private void Guardar2()
         {
@@ -113,7 +153,7 @@ namespace ArchivoFinalProgramación
             {
                 foreach (DataGridViewRow row in dgvAlumnos.Rows) // Recorro todas las filas del datagridview
                 {
-                    writer.WriteLine($"{row.Cells[0].Value}, {row.Cells[1].Value}, DNI: {row.Cells[2].Value}"); // Escribo en el archivo el contenido de cada celda
+                    writer.WriteLine($"{row.Cells[0].Value}, {row.Cells[1].Value}, {row.Cells[2].Value}"); // Escribo en el archivo el contenido de cada celda
                 }
             }
             fs1.Close();
@@ -171,6 +211,30 @@ namespace ArchivoFinalProgramación
             fs4.Close();
             // FIN Lectura del archivo Materias
         }
+        private void cargarAlumnos() // Metodo cargar materias al ComboBox
+        {
+            // COMIENZO Lectura del archivo Materias
+            // Abrimos el archivo en modo lectura
+            FileStream fs1 = new FileStream("Alumnos.txt", FileMode.OpenOrCreate, FileAccess.Read);
+
+            // Leemos linea por línea y, por cada linea, cargamos en el datagridview
+            using (StreamReader reader = new StreamReader(fs1))
+            {
+                string linea = reader.ReadLine();
+                while (linea != null)
+                {
+                    // Reconstruyo el objeto a partir de los datos levantados del archivo
+                    string datos = linea;
+
+                    cmbCargados.Items.Add(datos); // Agrego al ComboBox cada linea
+
+                    linea = reader.ReadLine();
+                }
+            }
+            // Cerramos el arcivo
+            fs1.Close();
+            // FIN Lectura del archivo Materias
+        }
         private void txtDniAlumno_KeyPress(object sender, KeyPressEventArgs e)
         {
             // Solamente se permite el ingreso de números
@@ -218,5 +282,6 @@ namespace ArchivoFinalProgramación
                 lblError1.Text = "";
             }
         }
+
     }
 }

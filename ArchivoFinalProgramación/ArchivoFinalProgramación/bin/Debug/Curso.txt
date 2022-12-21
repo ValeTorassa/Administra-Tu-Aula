@@ -1,4 +1,4 @@
-A,       Marcos Lodato,      Calculo,       Jorge Sanchez DNI:44067912 - Pedro Lopez DNI:1345245 
-B,       Fernando Jaime,      Quimica,        Juan Rodriguez DNI:788991 - Manuel Diaz DNI:123885 
-C,       Valentin Torassa,      Programacion I,        Martina Gomez DNI:78542 
-D,       Pedro Lopez,       Fisica,       Kimey Martin DNI:7968 - Juan Carlos DNI:78524 
+A,               Marcos Lodato,              Calculo,               Jorge Sanchez DNI:44067912 - Pedro Lopez DNI:1345245 
+B,               Fernando Jaime,              Quimica,                Juan Rodriguez DNI:788991 - Manuel Diaz DNI:123885 
+C,               Valentin Torassa,              Programacion I,                Martina Gomez DNI:78542 
+D,               Pedro Lopez,               Fisica,               Kimey Martin DNI:7968 - Juan Carlos DNI:78524 

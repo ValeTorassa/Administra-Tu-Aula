@@ -37,6 +37,9 @@
             this.txtNombreAlumno = new System.Windows.Forms.TextBox();
             this.btnAgregarAlumno = new System.Windows.Forms.Button();
             this.dgvAlumnos = new System.Windows.Forms.DataGridView();
+            this.nombre = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.apellido = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.dni = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.btnCrearCurso = new System.Windows.Forms.Button();
             this.btnvolver2 = new System.Windows.Forms.Button();
             this.txtDniAlumno = new System.Windows.Forms.TextBox();
@@ -51,9 +54,9 @@
             this.label6 = new System.Windows.Forms.Label();
             this.label5 = new System.Windows.Forms.Label();
             this.lblAgregarProfe = new System.Windows.Forms.Label();
-            this.nombre = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.apellido = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.dni = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.cmbCargados = new System.Windows.Forms.ComboBox();
+            this.label7 = new System.Windows.Forms.Label();
+            this.btnBorrarCmb = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.dgvAlumnos)).BeginInit();
             this.SuspendLayout();
             // 
@@ -86,7 +89,7 @@
             // txtNombreAlumno
             // 
             this.txtNombreAlumno.Font = new System.Drawing.Font("Bahnschrift SemiCondensed", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtNombreAlumno.Location = new System.Drawing.Point(147, 163);
+            this.txtNombreAlumno.Location = new System.Drawing.Point(147, 149);
             this.txtNombreAlumno.Name = "txtNombreAlumno";
             this.txtNombreAlumno.Size = new System.Drawing.Size(108, 23);
             this.txtNombreAlumno.TabIndex = 3;
@@ -98,9 +101,9 @@
             this.btnAgregarAlumno.Font = new System.Drawing.Font("Bahnschrift SemiCondensed", 9.75F);
             this.btnAgregarAlumno.Image = global::ArchivoFinalProgramación.Properties.Resources.Agregar;
             this.btnAgregarAlumno.ImageAlign = System.Drawing.ContentAlignment.MiddleRight;
-            this.btnAgregarAlumno.Location = new System.Drawing.Point(482, 156);
+            this.btnAgregarAlumno.Location = new System.Drawing.Point(484, 158);
             this.btnAgregarAlumno.Name = "btnAgregarAlumno";
-            this.btnAgregarAlumno.Size = new System.Drawing.Size(78, 30);
+            this.btnAgregarAlumno.Size = new System.Drawing.Size(81, 50);
             this.btnAgregarAlumno.TabIndex = 4;
             this.btnAgregarAlumno.Text = "Agregar";
             this.btnAgregarAlumno.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
@@ -131,11 +134,32 @@
             dataGridViewCellStyle2.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
             dataGridViewCellStyle2.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
             this.dgvAlumnos.DefaultCellStyle = dataGridViewCellStyle2;
-            this.dgvAlumnos.Location = new System.Drawing.Point(104, 203);
+            this.dgvAlumnos.Location = new System.Drawing.Point(110, 236);
             this.dgvAlumnos.Name = "dgvAlumnos";
             this.dgvAlumnos.Size = new System.Drawing.Size(368, 179);
             this.dgvAlumnos.TabIndex = 5;
             this.dgvAlumnos.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvAlumnos_CellClick);
+            // 
+            // nombre
+            // 
+            this.nombre.HeaderText = "Nombre";
+            this.nombre.Name = "nombre";
+            this.nombre.ReadOnly = true;
+            this.nombre.Width = 110;
+            // 
+            // apellido
+            // 
+            this.apellido.HeaderText = "Apellido";
+            this.apellido.Name = "apellido";
+            this.apellido.ReadOnly = true;
+            this.apellido.Width = 110;
+            // 
+            // dni
+            // 
+            this.dni.HeaderText = "Dni";
+            this.dni.Name = "dni";
+            this.dni.ReadOnly = true;
+            this.dni.Width = 105;
             // 
             // btnCrearCurso
             // 
@@ -144,7 +168,7 @@
             this.btnCrearCurso.Font = new System.Drawing.Font("Bahnschrift SemiCondensed", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnCrearCurso.Image = global::ArchivoFinalProgramación.Properties.Resources.Agregar;
             this.btnCrearCurso.ImageAlign = System.Drawing.ContentAlignment.MiddleRight;
-            this.btnCrearCurso.Location = new System.Drawing.Point(478, 262);
+            this.btnCrearCurso.Location = new System.Drawing.Point(484, 295);
             this.btnCrearCurso.Name = "btnCrearCurso";
             this.btnCrearCurso.Size = new System.Drawing.Size(103, 58);
             this.btnCrearCurso.TabIndex = 6;
@@ -160,7 +184,7 @@
             this.btnvolver2.Font = new System.Drawing.Font("Bahnschrift SemiCondensed", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnvolver2.Image = global::ArchivoFinalProgramación.Properties.Resources.Volver;
             this.btnvolver2.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btnvolver2.Location = new System.Drawing.Point(629, 411);
+            this.btnvolver2.Location = new System.Drawing.Point(629, 426);
             this.btnvolver2.Name = "btnvolver2";
             this.btnvolver2.Size = new System.Drawing.Size(68, 27);
             this.btnvolver2.TabIndex = 7;
@@ -172,7 +196,7 @@
             // txtDniAlumno
             // 
             this.txtDniAlumno.Font = new System.Drawing.Font("Bahnschrift SemiCondensed", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtDniAlumno.Location = new System.Drawing.Point(368, 163);
+            this.txtDniAlumno.Location = new System.Drawing.Point(368, 149);
             this.txtDniAlumno.Name = "txtDniAlumno";
             this.txtDniAlumno.Size = new System.Drawing.Size(100, 23);
             this.txtDniAlumno.TabIndex = 8;
@@ -181,7 +205,7 @@
             // txtApellidoAlumno
             // 
             this.txtApellidoAlumno.Font = new System.Drawing.Font("Bahnschrift SemiCondensed", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtApellidoAlumno.Location = new System.Drawing.Point(261, 163);
+            this.txtApellidoAlumno.Location = new System.Drawing.Point(261, 149);
             this.txtApellidoAlumno.Name = "txtApellidoAlumno";
             this.txtApellidoAlumno.Size = new System.Drawing.Size(100, 23);
             this.txtApellidoAlumno.TabIndex = 9;
@@ -190,7 +214,7 @@
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Bahnschrift SemiCondensed", 9.75F);
-            this.label1.Location = new System.Drawing.Point(403, 144);
+            this.label1.Location = new System.Drawing.Point(403, 130);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(25, 16);
             this.label1.TabIndex = 11;
@@ -200,7 +224,7 @@
             // 
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Bahnschrift SemiCondensed", 9.75F);
-            this.label2.Location = new System.Drawing.Point(290, 144);
+            this.label2.Location = new System.Drawing.Point(290, 130);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(48, 16);
             this.label2.TabIndex = 12;
@@ -210,7 +234,7 @@
             // 
             this.label3.AutoSize = true;
             this.label3.Font = new System.Drawing.Font("Bahnschrift SemiCondensed", 9.75F);
-            this.label3.Location = new System.Drawing.Point(177, 144);
+            this.label3.Location = new System.Drawing.Point(177, 130);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(48, 16);
             this.label3.TabIndex = 13;
@@ -219,7 +243,7 @@
             // lblError1
             // 
             this.lblError1.AutoSize = true;
-            this.lblError1.Location = new System.Drawing.Point(198, 228);
+            this.lblError1.Location = new System.Drawing.Point(204, 261);
             this.lblError1.Name = "lblError1";
             this.lblError1.Size = new System.Drawing.Size(0, 13);
             this.lblError1.TabIndex = 14;
@@ -231,7 +255,7 @@
             this.btnEliminar.Font = new System.Drawing.Font("Bahnschrift SemiCondensed", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnEliminar.Image = global::ArchivoFinalProgramación.Properties.Resources.Eliminar;
             this.btnEliminar.ImageAlign = System.Drawing.ContentAlignment.MiddleRight;
-            this.btnEliminar.Location = new System.Drawing.Point(104, 388);
+            this.btnEliminar.Location = new System.Drawing.Point(110, 421);
             this.btnEliminar.Name = "btnEliminar";
             this.btnEliminar.Size = new System.Drawing.Size(78, 30);
             this.btnEliminar.TabIndex = 15;
@@ -247,7 +271,7 @@
             this.btnModificarAlumnos.Font = new System.Drawing.Font("Bahnschrift SemiCondensed", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnModificarAlumnos.Image = global::ArchivoFinalProgramación.Properties.Resources.Modificar;
             this.btnModificarAlumnos.ImageAlign = System.Drawing.ContentAlignment.MiddleRight;
-            this.btnModificarAlumnos.Location = new System.Drawing.Point(388, 388);
+            this.btnModificarAlumnos.Location = new System.Drawing.Point(394, 421);
             this.btnModificarAlumnos.Name = "btnModificarAlumnos";
             this.btnModificarAlumnos.Size = new System.Drawing.Size(84, 30);
             this.btnModificarAlumnos.TabIndex = 16;
@@ -278,7 +302,7 @@
             this.label6.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.label6.Image = global::ArchivoFinalProgramación.Properties.Resources.icons8_schoolboy_at_a_desk_48__1_;
             this.label6.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.label6.Location = new System.Drawing.Point(39, 163);
+            this.label6.Location = new System.Drawing.Point(39, 149);
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(102, 23);
             this.label6.TabIndex = 22;
@@ -313,32 +337,49 @@
             this.lblAgregarProfe.Text = "      Profesor :";
             this.lblAgregarProfe.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             // 
-            // nombre
+            // cmbCargados
             // 
-            this.nombre.HeaderText = "Nombre";
-            this.nombre.Name = "nombre";
-            this.nombre.ReadOnly = true;
-            this.nombre.Width = 110;
+            this.cmbCargados.Font = new System.Drawing.Font("Bahnschrift SemiCondensed", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.cmbCargados.FormattingEnabled = true;
+            this.cmbCargados.Location = new System.Drawing.Point(142, 194);
+            this.cmbCargados.Name = "cmbCargados";
+            this.cmbCargados.Size = new System.Drawing.Size(235, 24);
+            this.cmbCargados.TabIndex = 24;
             // 
-            // apellido
+            // label7
             // 
-            this.apellido.HeaderText = "Apellido";
-            this.apellido.Name = "apellido";
-            this.apellido.ReadOnly = true;
-            this.apellido.Width = 110;
+            this.label7.AutoSize = true;
+            this.label7.Font = new System.Drawing.Font("Bahnschrift SemiCondensed", 9.75F);
+            this.label7.Location = new System.Drawing.Point(219, 175);
+            this.label7.Name = "label7";
+            this.label7.Size = new System.Drawing.Size(90, 16);
+            this.label7.TabIndex = 25;
+            this.label7.Text = "Alumno cargado";
             // 
-            // dni
+            // btnBorrarCmb
             // 
-            this.dni.HeaderText = "Dni";
-            this.dni.Name = "dni";
-            this.dni.ReadOnly = true;
-            this.dni.Width = 105;
+            this.btnBorrarCmb.BackColor = System.Drawing.Color.Red;
+            this.btnBorrarCmb.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnBorrarCmb.Font = new System.Drawing.Font("Bahnschrift SemiCondensed", 9.75F);
+            this.btnBorrarCmb.Image = global::ArchivoFinalProgramación.Properties.Resources.Eliminar;
+            this.btnBorrarCmb.ImageAlign = System.Drawing.ContentAlignment.MiddleRight;
+            this.btnBorrarCmb.Location = new System.Drawing.Point(383, 189);
+            this.btnBorrarCmb.Name = "btnBorrarCmb";
+            this.btnBorrarCmb.Size = new System.Drawing.Size(67, 32);
+            this.btnBorrarCmb.TabIndex = 26;
+            this.btnBorrarCmb.Text = "Borrar";
+            this.btnBorrarCmb.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.btnBorrarCmb.UseVisualStyleBackColor = false;
+            this.btnBorrarCmb.Click += new System.EventHandler(this.btnBorrarCmb_Click);
             // 
             // Form3
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(709, 450);
+            this.ClientSize = new System.Drawing.Size(709, 465);
+            this.Controls.Add(this.btnBorrarCmb);
+            this.Controls.Add(this.label7);
+            this.Controls.Add(this.cmbCargados);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.label6);
             this.Controls.Add(this.label5);
@@ -394,5 +435,8 @@
         private System.Windows.Forms.DataGridViewTextBoxColumn nombre;
         private System.Windows.Forms.DataGridViewTextBoxColumn apellido;
         private System.Windows.Forms.DataGridViewTextBoxColumn dni;
+        private System.Windows.Forms.ComboBox cmbCargados;
+        private System.Windows.Forms.Label label7;
+        private System.Windows.Forms.Button btnBorrarCmb;
     }
 }
